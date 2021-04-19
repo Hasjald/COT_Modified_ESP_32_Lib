@@ -1,3 +1,6 @@
+/*
+ Created by Harald Sæther 19/04/2021
+'/
 
 //Include Circus of Things library
 #include <CircusESP32Lib.h>  // LIbrary Circus of Things.
